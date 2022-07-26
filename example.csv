@@ -1,0 +1,52 @@
+Standard Report :: ACME Marketing
+
+Date/Time Generated,26/07/2022 10:40
+Report Time Zone,Australia/Sydney
+Account ID,49132
+Date Range,01/06/2022 - 30/06/2022
+MRC Accredited Metrics,"Clicks(Desktop Display, Desktop Rich Media, Desktop Video, In-App Display, In-App Rich Media, In-App Video, Mobile Display, Mobile Video)",Active View metrics are accredited only when Measurement Source = Measured
+"Reporting numbers are finalized after seven days, unless communicated otherwise."
+
+Report Fields
+Date,Advertiser,Creative Type,Campaign,Creative,Site (CM360),Impressions,Clicks,Video Plays, Cost (AUD)
+2022-06-01,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.021
+2022-06-01,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,6,0,A$0.14
+2022-06-02,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,20,0,A$0.44
+2022-06-03,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,2,0,A$0.21
+2022-06-03,ACME,Tracking,ACME Explosive Tennis Balls,Tracking_Search_1x1,Google Ads / Search,0,12,0,A$0.31
+2022-06-04,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.044
+2022-06-04,ACME,Tracking,ACME Earthquake Pills,Tracking_Search_1x1,Google Ads / Search,0,18,0,A$0.396
+2022-06-05,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.014
+2022-06-05,ACME,Tracking,ACME Hi-Speed Tonic,Tracking_Search_1x1,Google Ads / Search,0,12,0,A$0.312
+2022-06-06,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,21,0,A$0.47
+2022-06-07,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,28,0,A$0.5241
+2022-06-08,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,36,0,A$1.0412
+2022-06-09,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,2,1,0,A$0.103
+2022-06-09,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,18,0,A$0.401
+2022-06-10,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,17,0,A$0.38013
+2022-06-11,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.01
+2022-06-11,ACME,Tracking,ACME Giant Fly Paper,Tracking_Search_1x1,Google Ads / Search,0,13,0,A$0.316
+2022-06-12,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.011
+2022-06-12,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,13,0,A$0.328
+2022-06-13,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.01
+2022-06-13,ACME,Tracking,"ACME Bees, Wasps & Hornets",Tracking_Search_1x1,Google Ads / Search,0,14,0,A$0.341
+2022-06-14,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,23,0,A$0.478
+2022-06-15,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.014
+2022-06-15,ACME,Tracking,ACME Invisible Paint,Tracking_Search_1x1,Google Ads / Search,0,14,0,A$0.32
+2022-06-16,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,34,0,A$1.451
+2022-06-17,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,15,0,A$0.371
+2022-06-18,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,15,0,A$0.35
+2022-06-19,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,17,0,A$0.41
+2022-06-20,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,18,0,A$0.418
+2022-06-21,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,25,0,A$0.52
+2022-06-22,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,16,0,A$0.34
+2022-06-23,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,9,0,A$0.28
+2022-06-24,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,21,0,A$0.478
+2022-06-25,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,12,0,A$0.29
+2022-06-26,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.011
+2022-06-26,ACME,Tracking,ACME Iron Glue,Tracking_Search_1x1,Google Ads / Search,0,16,0,A$0.31
+2022-06-27,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,17,0,A$0.33
+2022-06-28,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,22,0,A$0.41
+2022-06-29,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,8,0,A$0.18
+2022-06-30,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,28,0,A$0.62
+Grand Total:,---,---,---,---,---,0,0,0
