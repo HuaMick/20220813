@@ -1,0 +1,12 @@
+Standard Report :: ACME Marketing
+
+Date/Time Generated,26/07/2022 10:40
+Report Time Zone,Australia/Sydney
+Date Range,01/06/2022 - 30/06/2022
+MRC Accredited Metrics,"Clicks(Desktop Display, Desktop Rich Media, Desktop Video, In-App Display, In-App Rich Media, In-App Video, Mobile Display, Mobile Video)",Active View metrics are accredited only when Measurement Source = Measured
+"Reporting numbers are finalized after seven days, unless communicated otherwise."
+
+Report Fields
+Date,Advertiser,Creative Type,Campaign,Creative,Site (CM360),Impressions,Clicks,Video Plays, Cost (AUD)
+2022-06-01,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.021
+Grand Total:,---,---,---,---,---,0,0,0

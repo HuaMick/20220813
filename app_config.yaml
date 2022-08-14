@@ -1,0 +1,16 @@
+about:
+  author: 'Mick Hua'
+  date: '2022-08-13'
+
+files:
+  - filepath: c:/Users/mickh/OneDrive/01_Developer/02_Python/louder-data-eng-task/example1.csv
+  - filepath: c:/Users/mickh/OneDrive/01_Developer/02_Python/louder-data-eng-task/example2.txt
+  - filepath: c:/Users/mickh/OneDrive/01_Developer/02_Python/louder-data-eng-task/example3.csv
+  - filepath: c:/Users/mickh/OneDrive/01_Developer/02_Python/louder-data-eng-task/example4.csv
+  - filepath: c:/Users/mickh/OneDrive/01_Developer/02_Python/louder-data-eng-task/example5.csv
+
+
+# Several types of Campaign Manager reports in use
+# the number of header rows in a report varies dependant on the report criteria --> Header looks to come after: Report Fields
+# the number and order of columns in the report are depend on the report definition
+# fields with containing currency values will include the word Cost in the column heading
