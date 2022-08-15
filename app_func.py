@@ -1,5 +1,4 @@
 """App Functions"""
-import app_test #This is the testing module
 import pandas as pd #pandas for csv and dataframe management
 
 def get_file_header(opened_file=None, errorlog=None):
@@ -31,6 +30,7 @@ def get_file_header(opened_file=None, errorlog=None):
 def get_file_body(opened_file = None):
     try:
         file_body = pd.read_csv(opened_file)
+        file_body.columns = [col.strip() for col in file_body.columns]
     except Exception as e:
         print(e)
         file_body = 'nothing'
@@ -49,7 +49,7 @@ def get_file_body(opened_file = None):
     return {'body':file_body, 'file_footer_found':file_footer_found}
 
 def add_account_id_to_body(file_body = None, account_id = None):
-    file_body['account_id'] = account_id
+    file_body['Account ID'] = account_id
 
     return file_body
 

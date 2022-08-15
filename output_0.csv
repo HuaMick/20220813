@@ -1,4 +1,4 @@
-Date,Advertiser,Creative Type,Campaign,Creative,Site (CM360),Impressions,Clicks,Video Plays, Cost (AUD),account_id
+Date,Advertiser,Creative Type,Campaign,Creative,Site (CM360),Impressions,Clicks,Video Plays,Cost (AUD),Account ID
 2022-06-01,ACME,Tracking,Wile E. Mail order catalog,Tracking_GA Display_1x1,Google Ads - Display,1,0,0,A$0.021,49132
 2022-06-01,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,6,0,A$0.14,49132
 2022-06-02,ACME,Tracking,Wile E. Mail order catalog,Tracking_Search_1x1,Google Ads / Search,0,20,0,A$0.44,49132
