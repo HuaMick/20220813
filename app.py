@@ -79,7 +79,9 @@ for file_id, file_config in enumerate(app_config['files']):
 
 errorlog = pd.DataFrame(errorlog)
 if len(errorlog) > 0:
-    print("\n Source file errors found, see below... \n")
+    print("\n--FILE ERRORS FOUND--")
+    print("\nNote: files with errors will not be processed")
+    print("Please review errors in the below table... \n")
     with pd.option_context(
         'display.max_rows', None
         , 'display.max_columns', None
@@ -88,26 +90,10 @@ if len(errorlog) > 0:
 
 for file_id, file in file_store.items():
     if file_id not in list(errorlog['file_id']):
-        file['file_body'].to_csv(f'sample_{file_id}.csv',index=False)
-
-#         """File Content"""
-#         
-#         #(Its reading down from where it left off)
-#         #Assert that the header contains the following columns..
-#         file_info[file_ID]['body'] = pd.read_csv(file)
-#         file_info[file_ID]['body'] = file_info['body'][file_info['body']['Date']!='Grand Total:']
-#         #Add the Account ID Field
-
-#         file_info['body']['Account ID'] = int(file_info['file_header'][5][1].replace('\n','')) 
-
-#         #Need to make sure the columns are in a standard order
-
-# from pprint import pprint
-# pprint(source_files)
-
-# if key != 'Report Fields\n':
-#     file_info['header'][row_counter] = next(file).split(',')
-# else:
-#     break
+        output_name = f'output_{file_id}.csv'
+        print("\n--FILES SUCCESSFULLY PROCESSED--")
+        print(f'\nFile_id: {file_id} was successfully processed with no errors.')
+        print(f'File_id: {file_id} output to: {output_name} \n')
+        file['file_body'].to_csv(output_name,index=False)
 
 
