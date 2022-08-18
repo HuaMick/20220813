@@ -4,7 +4,7 @@
 """
 & c:/Users/mickh/OneDrive/01_Developer/02_Python/louder-data-eng-task/.venv/Scripts/python.exe -i `
 c:/Users/mickh/OneDrive/01_Developer/02_Python/louder-data-eng-task/app.py
---
+
 """
 
 import app_test #This is the testing module
