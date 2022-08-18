@@ -39,3 +39,4 @@ Notes:
 - the number of header rows in a report varies dependant on the report criteria
 - the number and order of columns in the report are depend on the report definition
 - fields with containing currency values will include the word `Cost` in the column heading 
+------------------------
